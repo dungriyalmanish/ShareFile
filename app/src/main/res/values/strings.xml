@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Share File</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="enable_wifi_direct">Enable WiFi Direct</string>
+    <string name="available_connection">Available Devices</string>
+    <string name="past_connection">Past Connected Devices</string>
+    <string name="device_name">Device Name</string>
+</resources>
